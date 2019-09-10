@@ -3,11 +3,12 @@ def create_an_empty_array
 end
 
 def create_an_array
-  meters = ["art", "leo", "zigaboo", "george"]
+  meters_band = ["art", "leo", "zigaboo", "george"]
 end
 
 def add_element_to_end_of_array(array, element)
-  meters = ["art", "leo", "zigaboo", "george"]
+  meters_band = ["art", "leo", "zigaboo", "george"]
+  
 end
 
 def add_element_to_start_of_array(array, element)
