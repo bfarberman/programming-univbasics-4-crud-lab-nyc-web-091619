@@ -44,5 +44,4 @@ end
 def update_element_from_index(array, index_number, element)
   meters_band = ["art", "leo", "zigaboo", "george", "totally"]
   meters_band[4]
-  
 end
