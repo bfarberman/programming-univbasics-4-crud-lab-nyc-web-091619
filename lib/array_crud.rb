@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
   meters_band = ["art", "leo", "zigaboo", "george"]
-  meters_band.
+  meters_band.shift()
 end
 
 def retrieve_element_from_index(array, index_number)
