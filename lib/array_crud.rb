@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   meters_band = ["art", "leo", "zigaboo", "george"]
-  
+  meters_band.push
 end
 
 def add_element_to_start_of_array(array, element)
