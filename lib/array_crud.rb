@@ -27,8 +27,8 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  meters_band = ["art", "leo", "zigaboo", "george"]
-  meters_band[1]
+  meters_band = ["art", "leo", "am", "george"]
+  meters_band[2]
 end
 
 def retrieve_first_element_from_array(array)
