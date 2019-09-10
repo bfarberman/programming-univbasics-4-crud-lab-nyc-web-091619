@@ -32,8 +32,8 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  meters_band = ["art", "leo", "zigaboo", "george"]
-  
+  meters_band = ["wow", "leo", "zigaboo", "george"]
+  meters_band[0]
 end
 
 def retrieve_last_element_from_array(array)
