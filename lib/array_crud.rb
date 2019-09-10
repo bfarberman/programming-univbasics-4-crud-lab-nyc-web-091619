@@ -28,8 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   meters_band = ["art", "leo", "zigaboo", "george"]
-  
-  
+  meters_band["am"]
 end
 
 def retrieve_first_element_from_array(array)
